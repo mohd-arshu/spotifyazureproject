@@ -1,0 +1,15 @@
+{
+	"name": "df-azureprojectars",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3281d601-2466-44c6-8ed0-6f8696fd1850",
+		"tenantId": "f405919c-2c7b-4fe1-bc6b-b2ddc7e06d69"
+	}
+}
